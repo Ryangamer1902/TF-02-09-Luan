@@ -1,4 +1,4 @@
-# Unifaat :: Frontend :: Aula 03 - Servidor vite, framework css, Forms e Listeners <a name="unifaat-frontend-aula03-vite-framework-css-forms-listeners"></a>
+# Unifaat :: Frontend :: Aula 03 - Servidor vite, framework css, Forms e Listeners <a name="unifaat-frontend-tf-aula03-vite-framework-css-forms-listeners"></a>
 
 ## 📑 Sumário
 1. [Instalação e Execução](#instalacao-e-execucao)  
@@ -14,12 +14,12 @@
 
 1. Clonar o repositório:
    ```sh
-   git clone https://github.com/luan-tavares/unifaat-frontend-aula03-vite-framework-css-forms-listeners
+   git clone https://github.com/luan-tavares/unifaat-frontend-tf-aula03-vite-framework-css-forms-listeners
    ```
 
 2. Entrar na pasta do projeto:
    ```sh
-   cd unifaat-frontend-aula03-vite-framework-css-forms-listeners
+   cd unifaat-frontend-tf-aula03-vite-framework-css-forms-listeners
    ```
 
 3. Instalar pacotes:
