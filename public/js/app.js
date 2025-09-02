@@ -35,8 +35,8 @@ document.addEventListener("DOMContentLoaded", () => {
   
       const formData = new FormData(form);
   
-      // Para mostrar tudo via Object.entries no console:
-      console.log(Object.entries(formData.entries()));
+      // Mostrar pares chave/valor do FormData
+      console.log([...formData.entries()]);
     });
   });
-  
+
